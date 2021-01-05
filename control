@@ -1,0 +1,9 @@
+Package: kr.xsf1re.fastanimator
+Name: FastAnimator
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Make animation speed faster.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
